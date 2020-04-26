@@ -15,7 +15,7 @@
 2 文字冒险结合历史题材
 
 直播间地址 https://m.douyu.com/8319330
-github地址 待定
+github地址 https://github.com/bdliangyan/chunqiu.git
 
 王权游戏要素整理
 
